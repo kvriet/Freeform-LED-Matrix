@@ -2,6 +2,6 @@ Freeform LED Matrix
 
 Very heavily inspired by Mohit Bhoite's amazing sculptures: https://www.thingiverse.com/thing:3147406
 
-![blue led matrix](https://user-images.githubusercontent.com/47333175/150325115-759f7fee-4598-4b49-8b96-6bc6dc644aa5.jpg)
+![Blue LED matrix](https://user-images.githubusercontent.com/47333175/150326130-d3b28172-9e1f-4c7a-a755-eb7d09574496.jpg)
 
-![green led matrix](https://user-images.githubusercontent.com/47333175/150325136-e4e644c9-ce90-460d-8f94-7c0dd917102d.jpg)
+![green LED matrix](https://user-images.githubusercontent.com/47333175/150326139-55a1642c-4965-4508-b348-4c041da4c442.jpg)
